@@ -1,0 +1,2 @@
+# gocp
+cp for go
